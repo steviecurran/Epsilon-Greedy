@@ -9,3 +9,5 @@ Protects against p-hacking, where one can determine if number of trials is suffi
 
 Code generally avialable online, e.g.  https://www.geeksforgeeks.org/epsilon-greedy-algorithm-in-reinforcement-learning/ 
 However, all instances appear to be the same Object Orientated Programming code, whereas I've written this in a way that's easier for me (and maybe you) to follow. Note that unlike the online examples, this will work with both Normal and Bernoulli distributions (plus any others you care to add).
+
+![](https://raw.githubusercontent.com/steviecurran/Epsilon-Greedy/refs/heads/main/epsilon_greedy.png)
