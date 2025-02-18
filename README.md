@@ -1,4 +1,4 @@
-# Epsilon-Greedy reinforcement learning code - alternative to standard OOP version
+# Epsilon-Greedy reinforcement learning code
 
 Combines exploitation with exploration to give dynamic feedback on how your campaign is performing, e.g. to adjust fees, prices and content in real time, in accordance with user interactions. 
 
